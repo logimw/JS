@@ -38,4 +38,5 @@ My code examples and reusable snippets of JavaScript.
   10. :poland: Usuwanie elementu tablicy. 											:uk: ENG remove array element
   
 - ### Promises
-	XHR connection with representation of Promises .all() .then() .catch()
+	XHR connection with representation of Promises .all() .then() .catch() .race()
+	Promises and generators
