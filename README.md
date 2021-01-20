@@ -40,3 +40,6 @@ My code examples and reusable snippets of JavaScript.
 - ### Promises
 	XHR connection with representation of Promises .all() .then() .catch() .race()
 	Promises and generators
+
+- ### Map and Set
+	Some examples of ES6 Map and Set
